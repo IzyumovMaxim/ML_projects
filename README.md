@@ -1,2 +1,3 @@
 # ML_projects
-While learning ML algorithms I have made a lot of pet projects. In this repository I will publish code and dataset for each project with description.
+Учебные проекты по машинному обучению с использованием всех основных моделей
+- (Линейная регрессия)[https://github.com/IzyumovMaxim/ML_projects/tree/main/house_price_prediction_model]
